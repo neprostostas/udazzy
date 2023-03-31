@@ -17,6 +17,22 @@ At UDAZZY, we're committed to providing you with the best party experience possi
 
 Using UDAZZY is easy! Simply search for parties using our event dashboard, connect with hosts, and buy tickets right from within the app.
 
+## 🚀 Get Started
+
+To get started with UDAZZY, follow these simple steps:
+
+1. Clone the project to your local machine.
+2. Navigate to the project folder using your preferred command prompt.
+3. Run `npm i` to install all the dependencies for the project.
+
+   > Note: This step is important as it installs all the required packages and modules for the UDAZZY app to run without any issues.
+
+4. After the installation is complete, run `npm run serve` to start the app.
+5. Once the app is up and running, navigate to `localhost:<port>` in your preferred web browser.
+6. Register yourself in the app to start exploring parties and events all over the city of your choice!
+
+Happy partying with UDAZZY! 🎉
+
 ## 👻 Author
 
 Created by **Stanislav Kinash** / **neprostostas**. Connect with me on [GitHub](https://github.com/neprostostas)!
