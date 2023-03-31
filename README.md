@@ -1,24 +1,34 @@
-# vue-maps
+# 🎉 Welcome to UDAZZY! 🎉
 
-## Project setup
-```
-npm install
-```
+UDAZZY is a party app that helps you find the best events and coolest people in town! With our easy-to-use platform, you can discover new parties, make new friends, and share unforgettable experiences.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ⭐ Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+At UDAZZY, we're committed to providing you with the best party experience possible. Here are just a few of our amazing features:
 
-### Lints and fixes files
-```
-npm run lint
-```
+| 🥳  | UDAZZY                                                                                                                              |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------|
+| 🗺️ | **Party Map:** Find parties and events in your area!                                                                                |
+| 👥  | **Connect with Hosts:** Reserve your spot on the guest list and meet new contacts.                                                  |
+| 🎉  | **Host Your Own Event:** Become a promoter and get access to everything you need to throw your own parties or host your own tables. |
+| 💰  | **Absolutely Free:** UDAZZY is completely free to use!                                                                              |
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 💻 Usage
+
+Using UDAZZY is easy! Simply search for parties using our event dashboard, connect with hosts, and buy tickets right from within the app.
+
+## 👻 Author
+
+Created by **Stanislav Kinash** / **neprostostas**. Connect with me on [GitHub](https://github.com/neprostostas)!
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are always welcome! If you'd like to contribute, please check out our [contributing guidelines](CONTRIBUTING.md).
+
+## 📝 License
+
+This program is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
+
+## 📫 Contact
+
+If you have any questions or concerns, please contact the UDAZZY team at **support@udazzy.com**. We'd love to hear from you!
