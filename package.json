@@ -1,0 +1,70 @@
+{
+  "name": "udazzy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode .env",
+    "dev"  : "vue-cli-service serve --mode .env"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.0-alpha.43",
+    "@vuelidate/validators": "^2.0.0-alpha.31",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "jquery": "^3.6.1",
+    "moment": "^2.29.4",
+    "pinia": "^2.0.23",
+    "qs": "^6.11.0",
+    "swiper": "^8.4.7",
+    "vue": "^3.2.33",
+    "vue-basic-alert": "^1.1.0",
+    "vue-easy-slider": "^5.3.4",
+    "vue-gallery-slideshow": "^1.5.2",
+    "vue-google-autocomplete": "^1.1.3",
+    "vue-media-upload": "^1.2.1",
+    "vue-picture-swipe": "^2.1.0",
+    "vue-router": "^4.0.13",
+    "vue-slider-component": "^3.2.24",
+    "vue3-carousel": "^0.2.9",
+    "vue3-gmap-custom-marker": "^0.0.5",
+    "vue3-google-map": "^0.10.0",
+    "vue3-tel-input": "^1.0.4",
+    "vue3-touch-events": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.16.7",
+    "@babel/plugin-proposal-optional-chaining": "^7.16.7",
+    "@babel/preset-env": "^7.17.10",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-loader": "^8.2.5",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "url-loader": "^4.1.1"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "@babel/eslint-parser"
+    },
+    "rules": {
+      "vue/multi-word-component-names": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
